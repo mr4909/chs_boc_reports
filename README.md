@@ -6,8 +6,8 @@ In April 2016, CHS started producing monthly access reports using data from its 
 
 # Repository Structure
 
-`chs_reports.R`: imports and cleans pdfs; creates final dataframe of the percent of services completed from 01/2019-06/2020. 
-`chs_functions.R`: contains R libraries and custom functions needed to run `chs_reports.R`
+`chs_reports.R`: imports and cleans pdfs; creates final dataframe of the percent of services completed from 01/2019-06/2020.  
+`chs_functions.R`: contains R libraries and custom functions needed to run `chs_reports.R`  
 
 # Data
 
