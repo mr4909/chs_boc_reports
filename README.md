@@ -11,5 +11,9 @@ In April 2016, CHS started producing monthly access reports using data from its 
 
 # Data
 
-[original data] (https://www1.nyc.gov/site/boc/reports/correctional-health-authority-reports.page)
+[Original Data](https://www1.nyc.gov/site/boc/reports/correctional-health-authority-reports.page)
+
+# Codebook
+
+[Codebook](https://www1.nyc.gov/site/boc/reports/correctional-health-authority-reports.page)
 
